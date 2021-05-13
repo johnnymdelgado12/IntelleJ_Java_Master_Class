@@ -8,11 +8,11 @@ public class PositiveNegativeZero {
 
     public static void checkNumber(int number){
         if(number < 0){
-            System.out.println("Negative");
+            System.out.println("Negative ");
         } else if(number > 0){
-            System.out.println("Positive");
+            System.out.println("Positive ");
         } else{
-            System.out.println("Zero");
+            System.out.println("Zero ");
         }
     }
 }
